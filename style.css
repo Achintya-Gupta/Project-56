@@ -1,0 +1,41 @@
+#img2 {
+    width: 500px;
+    height: 330px;
+}
+
+#img1 {
+    width: 500px;
+}
+
+#img3 {
+    width: 500px;
+    height: 500px;
+}
+
+image-section {
+    display: flex;
+    justify-content: space-center;
+}
+
+.section-style {
+    margin-right: 25px;
+    margin-left: 25px;
+}
+h4{
+    font-size: 25px;
+}
+h3{
+    font-size: 25px;
+}
+h2{
+    font-size: 25px;
+}
+h1{
+    font-size: 30px;
+    font-weight: bold;
+  background-color: moccasin;
+}
+body{
+    text-align: center;
+    background-color:aquamarine;
+}
